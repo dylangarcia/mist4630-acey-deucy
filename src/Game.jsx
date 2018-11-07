@@ -37,7 +37,8 @@ const StyledButton = styled(Button).attrs({
 const CardWrapper = styled.div`
   display: flex;
   justify-content: center;
-  border: 1px solid black;
+  margin-top: 24px;
+  margin-bottom: 24px;
 `;
 
 const CardSpacer = styled.div`

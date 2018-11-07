@@ -5,7 +5,6 @@ import Card from './Card';
 const CardWrapper = styled.div`
   display: flex;
   justify-content: center;
-  border: 1px solid black;
 `;
 
 const CardSpacer = styled.div`

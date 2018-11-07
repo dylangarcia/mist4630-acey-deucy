@@ -34,6 +34,7 @@ const Flex = styled.div`
 
   ${({ col }) => col && `
     flex-direction: column;
+    align-items: center;
   `}
 `;
 
